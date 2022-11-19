@@ -1,2 +1,2 @@
-# StudentPerformanceAnalyzer
-Student Performance Analyzer project.  
+# Student Performance Analyzer
+This is the student performace analyzer project.  
